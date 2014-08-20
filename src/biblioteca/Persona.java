@@ -10,7 +10,7 @@ package biblioteca;
 public class Persona {
 
 	String nombrePersona;
-	String primApe, segApe;
+	String primApellido, segApellido;
 	String correoElectronio;
 	int numTelefono;
 	
