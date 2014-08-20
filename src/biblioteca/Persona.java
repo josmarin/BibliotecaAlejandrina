@@ -9,6 +9,9 @@ package biblioteca;
  */
 public class Persona {
 
-	
+	String nombrePersona;
+	String primApe, segApe;
+	String correoElectronio;
+	int numTelefono;
 	
 }
