@@ -1,5 +1,5 @@
 /**
- * 
+ * Proyecto: Control de Préstamos: Biblioteca Alejandrina
  */
 package biblioteca;
 
@@ -7,11 +7,18 @@ package biblioteca;
  * @autores Jostin Marín Mena / Jaycol Allen Segura 
  *
  */
+
+
 public class Persona {
 
-	String nombrePersona;
-	String primApellido, segApellido;
-	String correoElectronio;
+	String nombrePersona,
+		   primApellido, 
+		   segApellido,
+		   correoElectronio;
 	int numTelefono;
 	
+	
 }
+
+
+
